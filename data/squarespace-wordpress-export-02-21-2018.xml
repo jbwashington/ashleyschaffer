@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Ashley Schaffer</title>
+    <link>http://www.ashleyschaffer.com</link>
+    <pubDate>Thu, 02 Jul 2015 20:48:45 +0000</pubDate>
+    <description>Advertising &amp; Graphic Design</description>
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>531260341</wp:author_id>
+      <wp:author_login>ashschaffer9@gmail.com</wp:author_login>
+      <wp:author_email>ashschaffer9@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Ashley Schaffer]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Ashley]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Schaffer]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[Personal - null]]></wp:cat_name>
+      <wp:category_nicename>Personal-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <title>Meiosis</title>
+      <link>/new-gallery-1/</link>
+      <pubDate>Wed, 13 Dec 2017 02:06:52 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5a308b3853450a14f5938d2d/1513130814742/Sketches_2000w.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5a30882f0d929705fbc976d4/1513130037377/Inspiration-paintings_2000w.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5595ec8ee4b0eb5f837ac71f/1435888783189/font.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5595ecbae4b04ab9f75b1107/1435888827341/labels.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5595ecffe4b03ef082139651/1435888895786/wine.jpg" /></div>]]></content:encoded>
+      <wp:post_name>new-gallery-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5a308b3853450a14f5938d2d/1513130814742/Sketches_2000w.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5a308b3853450a14f5938d2d/1513130814742/Sketches_2000w.jpg</link>
+      <title>attachment-5a308b3853450a14f5938d2d</title>
+      <wp:post_name>Sketches-2000w-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a308b3853450a14f5938d2d]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a308b3853450a14f5938d2d]]></excerpt:encoded>
+      <pubDate>Wed, 13 Dec 2017 02:06:48 +0000</pubDate>
+      <wp:post_date>2017-12-13 02:06:48</wp:post_date>
+      <wp:post_date_gmt>2017-12-13 02:06:48</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5a30882f0d929705fbc976d4/1513130037377/Inspiration-paintings_2000w.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5a30882f0d929705fbc976d4/1513130037377/Inspiration-paintings_2000w.jpg</link>
+      <title>attachment-5a30882f0d929705fbc976d4</title>
+      <wp:post_name>Inspiration-paintings-2000w-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a30882f0d929705fbc976d4]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a30882f0d929705fbc976d4]]></excerpt:encoded>
+      <pubDate>Wed, 13 Dec 2017 01:53:51 +0000</pubDate>
+      <wp:post_date>2017-12-13 01:53:51</wp:post_date>
+      <wp:post_date_gmt>2017-12-13 01:53:51</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5595ec8ee4b0eb5f837ac71f/1435888783189/font.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5595ec8ee4b0eb5f837ac71f/1435888783189/font.jpg</link>
+      <title>attachment-5595ec8ee4b0eb5f837ac71f</title>
+      <wp:post_name>font-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5595ec8ee4b0eb5f837ac71f]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5595ec8ee4b0eb5f837ac71f]]></excerpt:encoded>
+      <pubDate>Fri, 03 Jul 2015 01:59:42 +0000</pubDate>
+      <wp:post_date>2015-07-03 01:59:42</wp:post_date>
+      <wp:post_date_gmt>2015-07-03 01:59:42</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5595ecbae4b04ab9f75b1107/1435888827341/labels.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5595ecbae4b04ab9f75b1107/1435888827341/labels.jpg</link>
+      <title>attachment-5595ecbae4b04ab9f75b1107</title>
+      <wp:post_name>labels-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5595ecbae4b04ab9f75b1107]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5595ecbae4b04ab9f75b1107]]></excerpt:encoded>
+      <pubDate>Fri, 03 Jul 2015 02:00:26 +0000</pubDate>
+      <wp:post_date>2015-07-03 02:00:26</wp:post_date>
+      <wp:post_date_gmt>2015-07-03 02:00:26</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5595ecffe4b03ef082139651/1435888895786/wine.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595e847e4b0af241ecccfd9/5595ecffe4b03ef082139651/1435888895786/wine.jpg</link>
+      <title>attachment-5595ecffe4b03ef082139651</title>
+      <wp:post_name>wine-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5595ecffe4b03ef082139651]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5595ecffe4b03ef082139651]]></excerpt:encoded>
+      <pubDate>Fri, 03 Jul 2015 02:01:35 +0000</pubDate>
+      <wp:post_date>2015-07-03 02:01:35</wp:post_date>
+      <wp:post_date_gmt>2015-07-03 02:01:35</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>Scotch Packaging Tape</title>
+      <link>/new-gallery-2/</link>
+      <pubDate>Thu, 14 Dec 2017 06:10:08 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595ed2ee4b0f75fd294f5f7/5a3215be8165f59567b1a2ce/1513231808797/ScotchTape_8x10.5_12.17.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595ed2ee4b0f75fd294f5f7/5a3215be0d9297f7991e786e/1513231809231/ScotchTape_8x10.5_12.172.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595ed2ee4b0f75fd294f5f7/5a3215a54192022049ca0d9c/1513231781588/Billboard-edit.jpg" /></div>]]></content:encoded>
+      <wp:post_name>new-gallery-2</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595ed2ee4b0f75fd294f5f7/5a3215be8165f59567b1a2ce/1513231808797/ScotchTape_8x10.5_12.17.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595ed2ee4b0f75fd294f5f7/5a3215be8165f59567b1a2ce/1513231808797/ScotchTape_8x10.5_12.17.jpg</link>
+      <title>attachment-5a3215be8165f59567b1a2ce</title>
+      <wp:post_name>ScotchTape-8x10-5-12-17-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:post_parent>6</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a3215be8165f59567b1a2ce]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a3215be8165f59567b1a2ce]]></excerpt:encoded>
+      <pubDate>Thu, 14 Dec 2017 06:10:06 +0000</pubDate>
+      <wp:post_date>2017-12-14 06:10:06</wp:post_date>
+      <wp:post_date_gmt>2017-12-14 06:10:06</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595ed2ee4b0f75fd294f5f7/5a3215be0d9297f7991e786e/1513231809231/ScotchTape_8x10.5_12.172.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595ed2ee4b0f75fd294f5f7/5a3215be0d9297f7991e786e/1513231809231/ScotchTape_8x10.5_12.172.jpg</link>
+      <title>attachment-5a3215be0d9297f7991e786e</title>
+      <wp:post_name>ScotchTape-8x10-5-12-172-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:post_parent>6</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a3215be0d9297f7991e786e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a3215be0d9297f7991e786e]]></excerpt:encoded>
+      <pubDate>Thu, 14 Dec 2017 06:10:06 +0000</pubDate>
+      <wp:post_date>2017-12-14 06:10:06</wp:post_date>
+      <wp:post_date_gmt>2017-12-14 06:10:06</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595ed2ee4b0f75fd294f5f7/5a3215a54192022049ca0d9c/1513231781588/Billboard-edit.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595ed2ee4b0f75fd294f5f7/5a3215a54192022049ca0d9c/1513231781588/Billboard-edit.jpg</link>
+      <title>attachment-5a3215a54192022049ca0d9c</title>
+      <wp:post_name>Billboard-edit-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <wp:post_parent>6</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a3215a54192022049ca0d9c]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a3215a54192022049ca0d9c]]></excerpt:encoded>
+      <pubDate>Thu, 14 Dec 2017 06:09:41 +0000</pubDate>
+      <wp:post_date>2017-12-14 06:09:41</wp:post_date>
+      <wp:post_date_gmt>2017-12-14 06:09:41</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>Love Games</title>
+      <link>/new-gallery-3/</link>
+      <pubDate>Fri, 03 Jul 2015 02:12:44 +0000</pubDate>
+      <content:encoded><![CDATA[<div></div>]]></content:encoded>
+      <wp:post_name>new-gallery-3</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Barnes &amp; Noble</title>
+      <link>/new-gallery-5/</link>
+      <pubDate>Fri, 03 Jul 2015 02:18:42 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f102e4b0b41e796a3c3a/5595f137e4b0b0384007d638/1435889976348/one.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f102e4b0b41e796a3c3a/5595f156e4b067d7a2f34adf/1435890006823/three.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f102e4b0b41e796a3c3a/5595f149e4b04425d935b488/1435889993759/two.jpg" /></div>]]></content:encoded>
+      <wp:post_name>new-gallery-5</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f102e4b0b41e796a3c3a/5595f137e4b0b0384007d638/1435889976348/one.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f102e4b0b41e796a3c3a/5595f137e4b0b0384007d638/1435889976348/one.jpg</link>
+      <title>attachment-5595f137e4b0b0384007d638</title>
+      <wp:post_name>one-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <wp:post_parent>11</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5595f137e4b0b0384007d638]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5595f137e4b0b0384007d638]]></excerpt:encoded>
+      <pubDate>Fri, 03 Jul 2015 02:19:35 +0000</pubDate>
+      <wp:post_date>2015-07-03 02:19:35</wp:post_date>
+      <wp:post_date_gmt>2015-07-03 02:19:35</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f102e4b0b41e796a3c3a/5595f156e4b067d7a2f34adf/1435890006823/three.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f102e4b0b41e796a3c3a/5595f156e4b067d7a2f34adf/1435890006823/three.jpg</link>
+      <title>attachment-5595f156e4b067d7a2f34adf</title>
+      <wp:post_name>three-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>13</wp:post_id>
+      <wp:post_parent>11</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5595f156e4b067d7a2f34adf]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5595f156e4b067d7a2f34adf]]></excerpt:encoded>
+      <pubDate>Fri, 03 Jul 2015 02:20:06 +0000</pubDate>
+      <wp:post_date>2015-07-03 02:20:06</wp:post_date>
+      <wp:post_date_gmt>2015-07-03 02:20:06</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f102e4b0b41e796a3c3a/5595f149e4b04425d935b488/1435889993759/two.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f102e4b0b41e796a3c3a/5595f149e4b04425d935b488/1435889993759/two.jpg</link>
+      <title>attachment-5595f149e4b04425d935b488</title>
+      <wp:post_name>two-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>14</wp:post_id>
+      <wp:post_parent>11</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5595f149e4b04425d935b488]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5595f149e4b04425d935b488]]></excerpt:encoded>
+      <pubDate>Fri, 03 Jul 2015 02:19:53 +0000</pubDate>
+      <wp:post_date>2015-07-03 02:19:53</wp:post_date>
+      <wp:post_date_gmt>2015-07-03 02:19:53</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>Oceana</title>
+      <link>/oceana/</link>
+      <pubDate>Wed, 13 Dec 2017 23:47:43 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a31bc15085229c7f4b045ef/1513208864825/Oceana-gif-1_12.17.gif" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a3081ae9140b73ab52b6f2e/1513128372625/OceanaAds_WEB-1200x1500_12.174.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a3081ad24a694311d39e884/1513128373121/OceanaAds_WEB-1200x1500_12.173.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a3081a98165f57be148f2f8/1513128368479/OceanaAds_WEB-1200x1500_12.172.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a3081a924a694311d39e7e1/1513128365962/OceanaAds_WEB-1200x1500_12.17.jpg" /></div>]]></content:encoded>
+      <wp:post_name>oceana</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>15</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a31bc15085229c7f4b045ef/1513208864825/Oceana-gif-1_12.17.gif</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a31bc15085229c7f4b045ef/1513208864825/Oceana-gif-1_12.17.gif</link>
+      <title>attachment-5a31bc15085229c7f4b045ef</title>
+      <wp:post_name>Oceana-gif-1-12-17-gif</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>16</wp:post_id>
+      <wp:post_parent>15</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a31bc15085229c7f4b045ef]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a31bc15085229c7f4b045ef]]></excerpt:encoded>
+      <pubDate>Wed, 13 Dec 2017 23:47:33 +0000</pubDate>
+      <wp:post_date>2017-12-13 23:47:33</wp:post_date>
+      <wp:post_date_gmt>2017-12-13 23:47:33</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a3081ae9140b73ab52b6f2e/1513128372625/OceanaAds_WEB-1200x1500_12.174.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a3081ae9140b73ab52b6f2e/1513128372625/OceanaAds_WEB-1200x1500_12.174.jpg</link>
+      <title>attachment-5a3081ae9140b73ab52b6f2e</title>
+      <wp:post_name>OceanaAds-WEB-1200x1500-12-174-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>17</wp:post_id>
+      <wp:post_parent>15</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a3081ae9140b73ab52b6f2e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a3081ae9140b73ab52b6f2e]]></excerpt:encoded>
+      <pubDate>Wed, 13 Dec 2017 01:26:06 +0000</pubDate>
+      <wp:post_date>2017-12-13 01:26:06</wp:post_date>
+      <wp:post_date_gmt>2017-12-13 01:26:06</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a3081ad24a694311d39e884/1513128373121/OceanaAds_WEB-1200x1500_12.173.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a3081ad24a694311d39e884/1513128373121/OceanaAds_WEB-1200x1500_12.173.jpg</link>
+      <title>attachment-5a3081ad24a694311d39e884</title>
+      <wp:post_name>OceanaAds-WEB-1200x1500-12-173-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>18</wp:post_id>
+      <wp:post_parent>15</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a3081ad24a694311d39e884]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a3081ad24a694311d39e884]]></excerpt:encoded>
+      <pubDate>Wed, 13 Dec 2017 01:26:05 +0000</pubDate>
+      <wp:post_date>2017-12-13 01:26:05</wp:post_date>
+      <wp:post_date_gmt>2017-12-13 01:26:05</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a3081a98165f57be148f2f8/1513128368479/OceanaAds_WEB-1200x1500_12.172.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a3081a98165f57be148f2f8/1513128368479/OceanaAds_WEB-1200x1500_12.172.jpg</link>
+      <title>attachment-5a3081a98165f57be148f2f8</title>
+      <wp:post_name>OceanaAds-WEB-1200x1500-12-172-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>19</wp:post_id>
+      <wp:post_parent>15</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a3081a98165f57be148f2f8]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a3081a98165f57be148f2f8]]></excerpt:encoded>
+      <pubDate>Wed, 13 Dec 2017 01:26:01 +0000</pubDate>
+      <wp:post_date>2017-12-13 01:26:01</wp:post_date>
+      <wp:post_date_gmt>2017-12-13 01:26:01</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a3081a924a694311d39e7e1/1513128365962/OceanaAds_WEB-1200x1500_12.17.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5595f7f6e4b0dd6032128950/5a3081a924a694311d39e7e1/1513128365962/OceanaAds_WEB-1200x1500_12.17.jpg</link>
+      <title>attachment-5a3081a924a694311d39e7e1</title>
+      <wp:post_name>OceanaAds-WEB-1200x1500-12-17-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>20</wp:post_id>
+      <wp:post_parent>15</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a3081a924a694311d39e7e1]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a3081a924a694311d39e7e1]]></excerpt:encoded>
+      <pubDate>Wed, 13 Dec 2017 01:26:01 +0000</pubDate>
+      <wp:post_date>2017-12-13 01:26:01</wp:post_date>
+      <wp:post_date_gmt>2017-12-13 01:26:01</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <link>/resume/</link>
+      <title>Resume</title>
+      <pubDate>Thu, 24 Aug 2017 00:37:49 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;<div class="sqs-image sqs-empty"><div class="sqs-image-content" style="padding-bottom: 100.0%"></div></div>&nbsp;<h3>It all started when...</h3><p>The following is placeholder text known as “lorem ipsum,” which is scrambled Latin used by designers to mimic real copy. Quisque congue porttitor ullamcorper. Mauris egestas at nibh nec finibus. Donec eu est non lacus lacinia semper. Aenean eu justo sed elit dignissim aliquam. Sed a ligula quis sapien lacinia egestas.</p><p>Phasellus sodales massa malesuada tellus fringilla, nec bibendum tellus blandit. Phasellus sodales massa malesuada tellus fringilla, nec bibendum tellus blandit. In sit amet felis malesuada, feugiat purus eget, varius mi. Aenean eu justo sed elit dignissim aliquam.</p>&nbsp;&nbsp;]]></content:encoded>
+      <wp:post_name>resume</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>21</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Logos</title>
+      <link>/new-gallery/</link>
+      <pubDate>Sat, 17 Feb 2018 22:06:38 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a309484e2c48344428c02e4/5a33456de4966b79a0626337/1518055431338/CTExpres_1080x1080.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a309484e2c48344428c02e4/5a30b2b024a694311d415dae/1518055431381/Kutz_1080x1080.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a309484e2c48344428c02e4/5a309d68f9619af05c385a87/1518055431350/Space_1080x1080.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a309484e2c48344428c02e4/5a3098b724a694311d3d8da7/1518055431334/Soul_1080x1080.jpg" /></div>]]></content:encoded>
+      <wp:post_name>new-gallery</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>22</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a309484e2c48344428c02e4/5a33456de4966b79a0626337/1518055431338/CTExpres_1080x1080.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a309484e2c48344428c02e4/5a33456de4966b79a0626337/1518055431338/CTExpres_1080x1080.jpg</link>
+      <title>attachment-5a33456de4966b79a0626337</title>
+      <wp:post_name>CTExpres-1080x1080-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>23</wp:post_id>
+      <wp:post_parent>22</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a33456de4966b79a0626337]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a33456de4966b79a0626337]]></excerpt:encoded>
+      <pubDate>Fri, 15 Dec 2017 03:45:49 +0000</pubDate>
+      <wp:post_date>2017-12-15 03:45:49</wp:post_date>
+      <wp:post_date_gmt>2017-12-15 03:45:49</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a309484e2c48344428c02e4/5a30b2b024a694311d415dae/1518055431381/Kutz_1080x1080.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a309484e2c48344428c02e4/5a30b2b024a694311d415dae/1518055431381/Kutz_1080x1080.jpg</link>
+      <title>attachment-5a30b2b024a694311d415dae</title>
+      <wp:post_name>Kutz-1080x1080-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>24</wp:post_id>
+      <wp:post_parent>22</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a30b2b024a694311d415dae]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a30b2b024a694311d415dae]]></excerpt:encoded>
+      <pubDate>Wed, 13 Dec 2017 04:55:12 +0000</pubDate>
+      <wp:post_date>2017-12-13 04:55:12</wp:post_date>
+      <wp:post_date_gmt>2017-12-13 04:55:12</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a309484e2c48344428c02e4/5a309d68f9619af05c385a87/1518055431350/Space_1080x1080.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a309484e2c48344428c02e4/5a309d68f9619af05c385a87/1518055431350/Space_1080x1080.jpg</link>
+      <title>attachment-5a309d68f9619af05c385a87</title>
+      <wp:post_name>Space-1080x1080-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>25</wp:post_id>
+      <wp:post_parent>22</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a309d68f9619af05c385a87]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a309d68f9619af05c385a87]]></excerpt:encoded>
+      <pubDate>Wed, 13 Dec 2017 03:24:24 +0000</pubDate>
+      <wp:post_date>2017-12-13 03:24:24</wp:post_date>
+      <wp:post_date_gmt>2017-12-13 03:24:24</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a309484e2c48344428c02e4/5a3098b724a694311d3d8da7/1518055431334/Soul_1080x1080.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a309484e2c48344428c02e4/5a3098b724a694311d3d8da7/1518055431334/Soul_1080x1080.jpg</link>
+      <title>attachment-5a3098b724a694311d3d8da7</title>
+      <wp:post_name>Soul-1080x1080-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>26</wp:post_id>
+      <wp:post_parent>22</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a3098b724a694311d3d8da7]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a3098b724a694311d3d8da7]]></excerpt:encoded>
+      <pubDate>Wed, 13 Dec 2017 03:04:23 +0000</pubDate>
+      <wp:post_date>2017-12-13 03:04:23</wp:post_date>
+      <wp:post_date_gmt>2017-12-13 03:04:23</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <title>Crunch South Slope Opening</title>
+      <link>/south-slope-opening/</link>
+      <pubDate>Wed, 13 Dec 2017 02:52:27 +0000</pubDate>
+      <content:encoded><![CDATA[<div></div>]]></content:encoded>
+      <wp:post_name>south-slope-opening</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>27</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Crunch Apparel</title>
+      <link>/crunch-apparel/</link>
+      <pubDate>Wed, 13 Dec 2017 02:53:17 +0000</pubDate>
+      <content:encoded><![CDATA[<div></div>]]></content:encoded>
+      <wp:post_name>crunch-apparel</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>28</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/new-page/</link>
+      <title>Crunch Social Media</title>
+      <pubDate>Thu, 14 Dec 2017 06:23:49 +0000</pubDate>
+      <content:encoded><![CDATA[<p class="text-align-center">Social content I shot and created.</p><div class="image-gallery-wrapper">
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a31c107e2c4834184a4feab/1513210254726/CR011SLIG_UnderArmorLifestyle_4.16.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a31c1088165f59567a5b438/1513210254782/CR011SLIG_UnderArmorLifestyle_4.163.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a31c3178165f59567a60d40/1513210651384/CR011SLIG_UnderArmorLifestyle_4.162.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a30bb9c0d929705fbd10f2c/1513143196812/CR011SLGR_BetheBelleoftheBarre.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a30bb9c085229b367bf3d83/1513143196790/CR011SLGR_HustlefortheMuscle_3.17+copy.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a30bb9c9140b73ab533f6b8/1513143197215/CR011SLGR_PerspireToGreatness_5.17.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a30bb9c53450a14f59aa702/1513143197493/CR011SLIG_GymandJuice_10.17.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a30bb9d9140b73ab533f6be/1513209163816/CR011SLIG_SleighYourWorkout_12.17.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a30bb9d53450a14f59aa70b/1513143197470/CR011SLIG_WhenGoalsBecomeGains_6.17.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a31c02ae4966b4841af08c2/1513209900061/CR011SLIG_NutritionTip_Guac_5.17.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a31f6e58165f59567adea40/1513223914559/CR011SLIG_SummerVegetables_6.17-edit.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a31f6b971c10b2bb157df2c/1513223866012/Smoothie-edit.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a31f252652dea4e8a2575c6/1513223022153/CR011SLIG_PrideMonth_6.17.gif?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a31f515c830251c9277dfb9/1513223449027/CR011SLIG_MemorialDay_5.17.jpg?format=original" />
+  
+
+  
+   <img src="https://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a30bb9b53450a14f59aa698/5a31f81e71c10b2bb1581423/1513224229462/CF011SLGR_GroupFitness_11.17.gif?format=original" />
+  
+
+</div>]]></content:encoded>
+      <wp:post_name>new-page</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>29</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>Unfound Beauty</title>
+      <link>/unfound-beauty/</link>
+      <pubDate>Fri, 15 Dec 2017 03:37:25 +0000</pubDate>
+      <content:encoded><![CDATA[<div><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a3343749140b76437933161/1513309045973/BeccsBuscard.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a333e979140b764379290d9/1513307806931/Beccs_FinalCover_2016.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a332a3c0d92972a192ad6d3/1513302588865/14481932_1220322021347134_8327830914516426390_o.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a3329fc085229e36d919796/1513302526169/Beccs_EPReleaseShow_8.5x11_2016.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a33292e9140b764378f9ce7/1513302319502/Beccs_RadioBean_8.5x11_v2_20172.jpg" /><img src="http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a3327d053450a16518b60af/1513301974470/BeccsCover_2000x2000_2016.jpg" /></div>]]></content:encoded>
+      <wp:post_name>unfound-beauty</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>30</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a3343749140b76437933161/1513309045973/BeccsBuscard.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a3343749140b76437933161/1513309045973/BeccsBuscard.jpg</link>
+      <title>attachment-5a3343749140b76437933161</title>
+      <wp:post_name>BeccsBuscard-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>31</wp:post_id>
+      <wp:post_parent>30</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a3343749140b76437933161]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a3343749140b76437933161]]></excerpt:encoded>
+      <pubDate>Fri, 15 Dec 2017 03:37:24 +0000</pubDate>
+      <wp:post_date>2017-12-15 03:37:24</wp:post_date>
+      <wp:post_date_gmt>2017-12-15 03:37:24</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a333e979140b764379290d9/1513307806931/Beccs_FinalCover_2016.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a333e979140b764379290d9/1513307806931/Beccs_FinalCover_2016.jpg</link>
+      <title>attachment-5a333e979140b764379290d9</title>
+      <wp:post_name>Beccs-FinalCover-2016-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>32</wp:post_id>
+      <wp:post_parent>30</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a333e979140b764379290d9]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a333e979140b764379290d9]]></excerpt:encoded>
+      <pubDate>Fri, 15 Dec 2017 03:16:39 +0000</pubDate>
+      <wp:post_date>2017-12-15 03:16:39</wp:post_date>
+      <wp:post_date_gmt>2017-12-15 03:16:39</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a332a3c0d92972a192ad6d3/1513302588865/14481932_1220322021347134_8327830914516426390_o.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a332a3c0d92972a192ad6d3/1513302588865/14481932_1220322021347134_8327830914516426390_o.jpg</link>
+      <title>attachment-5a332a3c0d92972a192ad6d3</title>
+      <wp:post_name>14481932-1220322021347134-8327830914516426390-o-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>33</wp:post_id>
+      <wp:post_parent>30</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a332a3c0d92972a192ad6d3]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a332a3c0d92972a192ad6d3]]></excerpt:encoded>
+      <pubDate>Fri, 15 Dec 2017 01:49:48 +0000</pubDate>
+      <wp:post_date>2017-12-15 01:49:48</wp:post_date>
+      <wp:post_date_gmt>2017-12-15 01:49:48</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a3329fc085229e36d919796/1513302526169/Beccs_EPReleaseShow_8.5x11_2016.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a3329fc085229e36d919796/1513302526169/Beccs_EPReleaseShow_8.5x11_2016.jpg</link>
+      <title>attachment-5a3329fc085229e36d919796</title>
+      <wp:post_name>Beccs-EPReleaseShow-8-5x11-2016-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>34</wp:post_id>
+      <wp:post_parent>30</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a3329fc085229e36d919796]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a3329fc085229e36d919796]]></excerpt:encoded>
+      <pubDate>Fri, 15 Dec 2017 01:48:44 +0000</pubDate>
+      <wp:post_date>2017-12-15 01:48:44</wp:post_date>
+      <wp:post_date_gmt>2017-12-15 01:48:44</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a33292e9140b764378f9ce7/1513302319502/Beccs_RadioBean_8.5x11_v2_20172.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a33292e9140b764378f9ce7/1513302319502/Beccs_RadioBean_8.5x11_v2_20172.jpg</link>
+      <title>attachment-5a33292e9140b764378f9ce7</title>
+      <wp:post_name>Beccs-RadioBean-8-5x11-v2-20172-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>35</wp:post_id>
+      <wp:post_parent>30</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a33292e9140b764378f9ce7]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a33292e9140b764378f9ce7]]></excerpt:encoded>
+      <pubDate>Fri, 15 Dec 2017 01:45:18 +0000</pubDate>
+      <wp:post_date>2017-12-15 01:45:18</wp:post_date>
+      <wp:post_date_gmt>2017-12-15 01:45:18</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+    <item>
+      <wp:attachment_url>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a3327d053450a16518b60af/1513301974470/BeccsCover_2000x2000_2016.jpg</wp:attachment_url>
+      <link>http://static1.squarespace.com/static/5595a3ade4b0c805c27aee2d/5a33229871c10b467bc91c15/5a3327d053450a16518b60af/1513301974470/BeccsCover_2000x2000_2016.jpg</link>
+      <title>attachment-5a3327d053450a16518b60af</title>
+      <wp:post_name>BeccsCover-2000x2000-2016-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>36</wp:post_id>
+      <wp:post_parent>30</wp:post_parent>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-5a3327d053450a16518b60af]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-5a3327d053450a16518b60af]]></excerpt:encoded>
+      <pubDate>Fri, 15 Dec 2017 01:39:28 +0000</pubDate>
+      <wp:post_date>2017-12-15 01:39:28</wp:post_date>
+      <wp:post_date_gmt>2017-12-15 01:39:28</wp:post_date_gmt>
+      <dc:creator>ashschaffer9@gmail.com</dc:creator>
+    </item>
+  </channel>
+</rss>
